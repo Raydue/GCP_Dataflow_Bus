@@ -7,3 +7,5 @@
 ·  透過Apache Beam 設計客製化的Dataflow，將原始資料轉化成目標格式。最終將資料導入Bigquery以方便視覺化。
 #
 ![image](https://github.com/Raydue/GCP_Dataflow_Bus/blob/main/Pubsub_diagram.PNG)
+
+![image](https://github.com/Raydue/GCP_Dataflow_Bus/blob/main/Convert.png)
